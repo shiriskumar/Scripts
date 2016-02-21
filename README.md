@@ -11,6 +11,7 @@ Random Scripts for you and me.
 * [Shutdown PC](https://github.com/shiriskumar/Scripts/blob/master/Shutdown_PC.bat)
 * [Enable WiFi](https://github.com/shiriskumar/Scripts/blob/master/Wifi-Enable.bat)
 * [Change Brightness](https://github.com/shiriskumar/Scripts/blob/master/change_brightness.bat)
+* [Simple Python Virus for Kids](https://github.com/shiriskumar/Scripts/blob/master/simple_py_virus.py)
 
 
 ### [License](https://github.com/shiriskumar/Scripts/blob/master/LICENSE)
