@@ -5,6 +5,7 @@ Random Scripts for you and me.
 
 ### Index:
 * [Hybernate PC](https://github.com/shiriskumar/Scripts/blob/master/Hybernate_PC.bat)
+* [Set IP](https://github.com/shiriskumar/Scripts/blob/master/IP_set.bat)
 * [Infinite Ping](https://github.com/shiriskumar/Scripts/blob/master/InfinitePing.bat)
 * [Random File-Rename](https://github.com/shiriskumar/Scripts/blob/master/Random_FIle_Re-Name.bat)
 * [Restart PC](https://github.com/shiriskumar/Scripts/blob/master/Restart_PC.bat)
